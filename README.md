@@ -1,5 +1,5 @@
 # tzmall-api
-商城的后台服务端，前端项目：
+商城的后台服务端，前端项目：https://github.com/sjktCode/tzmall-uniapp
 
 ## 本地开发启动
 依赖服务：
