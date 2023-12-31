@@ -5,7 +5,7 @@
 依赖服务：
 ```
 // MySql服务
-docker compose  --env-file .env.development run -d --service-ports mysql
+docker compose  --env-file .env.development run -d --service-ports mysql --lower-case-table-names=1
 // Redis服务
 docker compose  --env-file .env.development run -d --service-ports redis
 ```
